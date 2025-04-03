@@ -9,8 +9,7 @@ const PORT = 3000; // Port to run the server
 
 // Set up OpenAI client with hardcoded API key (Not recommended for production)
 const openai = new OpenAI({
-  apiKey: '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', // Directly input your API key here
-});
+  apiKey:process.env.OPENAI_API_KEY});
 
 // Middleware to parse JSON request bodies
 // app.use(bodyParser.json());
