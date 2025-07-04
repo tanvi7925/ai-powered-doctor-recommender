@@ -17,7 +17,7 @@ The **AI-Powered Doctor Recommendation Tool** helps users identify the appropria
 - **AI Model:** OpenAI GPT-3/4
 
 
-## 🚀 How It Works
+##  How It Works
 1. User enters their symptoms.
 2. The AI model analyzes the symptoms.
 3. The system suggests a relevant medical specialist (e.g., Cardiologist, Pulmonologist, Dermatologist, etc.).
